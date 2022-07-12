@@ -208,7 +208,25 @@ footer {
   margin: 20px 0 0 0;
   color: #9e9797;
 }
-
+.bskbeats-imagenes {
+  align-items: center;
+  width: 52%;
+  display: flex;
+  
+}
+.infoacercade {
+  text-align: center;
+  text-decoration: solid;
+  font-size: xx-large;
+}
+.redesbskbeats {
+  display: flex;
+  align-items: center;
+  width: 32%;
+}
+.funkyworksfnklogoinsta {
+  width: 80%;
+}
 @media screen and (max-width: 900px) {
   header {
     background-position: center;
@@ -308,5 +326,23 @@ footer {
     font-size: 20px;
   }
 }
-
+.bskbeats-imagenes {
+  align-items: center;
+  width: 52%;
+  display: flex;
+  
+}
+.infoacercade {
+  text-align: center;
+  text-decoration: solid;
+  font-size: xx-large;
+}
+.redesbskbeats {
+  display: flex;
+  align-items: center;
+  width: 32%;
+}
+.funkyworksfnklogoinsta {
+  width: 80%;
+}
 /*# sourceMappingURL=style.css.map */
