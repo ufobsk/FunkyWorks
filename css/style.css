@@ -215,8 +215,14 @@ footer {
   justify-content: center;
   
 }
+
+.info-container {
+  background-color: #1f1485;
+}
+
 .infoacercade {
   text-align: center;
+  color: #9e9797;
   text-decoration: solid;
   font-size: xx-large;
 }
